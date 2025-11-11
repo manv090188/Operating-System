@@ -1,0 +1,22 @@
+Operating System
+
+Operating Systems are the programs which sits at between a user and a Hardware. Operating system manages the hardware and helps in executing all the process in the hardware. 
+
+What is Shell?
+
+Shell is the program which helps communicate the user with the hardware, and acts as an interface. Types of Shells are:
+-sh
+-bash
+-ksh
+-ssh
+-powershell
+
+Shell act as intermediary between the user and the hardware to translate the commands provided and execute it on the hardware.
+
+Is Shell a part of an operating system? Yes
+
+Operating System has two main parts: Shell and the other is Kernel.
+
+Kernel is the core compnnet of the Operating System that manages system resources and provides services to the other programs running in the system. It is responsible for 
+the tasks like memory mangement, process scheduling and device drivers.
+
