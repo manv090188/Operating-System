@@ -20,3 +20,7 @@ Operating System has two main parts: Shell and the other is Kernel.
 Kernel is the core compnnet of the Operating System that manages system resources and provides services to the other programs running in the system. It is responsible for 
 the tasks like memory mangement, process scheduling and device drivers.
 
+You cam use cmd.exe or Powershell as a command line shell to write script in Windows. For Linux, you can start with default Bash.
+
+What are Mobaxterm and PuTTy used?
+Mobaxterm and PuTTy are used for ssh clients to access remotely.
